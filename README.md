@@ -1,4 +1,4 @@
-# StackGAN Inception Evaluation model
+# StackGAN Inception Evaluation Model
 - [StackGAN-pytorch](https://github.com/hanzhanggit/StackGAN-Pytorch)
 - [StackGAN-tensorflow](https://github.com/hanzhanggit/StackGAN)
 
@@ -16,7 +16,7 @@ Inception evaluation model for reproducing main results in the paper [StackGAN: 
 
 
 
-###To get the inception score
+### To get the inception score
 python inception_score.py --image_folder IMAGE_FOLDER_PATH
 
 
